@@ -552,3 +552,7 @@ id = ""
   category = "categories"
   tag = "tags"
   author = "authors"
+
+[module]
+  [[module.imports]]
+    path = "github.com/devcows/hugo-universal-theme"
